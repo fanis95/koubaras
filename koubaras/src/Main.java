@@ -18,7 +18,6 @@ public class Main {
         p.tarakounise();
         p.katathesi(1500);
         System.out.println(p.ypologiseYpoloipo(1200));
-
     }
     
 }
